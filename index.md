@@ -1,7 +1,6 @@
 # Nathan Walker's Digital Portfolio
 
 ## Map Projects
----
 ### Time Series Analysis
 ![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
 ---
