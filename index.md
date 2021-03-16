@@ -2,6 +2,7 @@
 
 ---
 <p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire. 
+  
 ## Map Projects
 ### Time Series Analysis
 ![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
