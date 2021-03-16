@@ -1,3 +1,9 @@
+<html>
+  <head>
+    <title>
+      </head>
+    
+  <body>
 # Nathan Walker's Digital Portfolio
 
 ## About
@@ -96,3 +102,5 @@ mean(df$FRCLS_12)
 ![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)  
 ## Tutorials  
 [GeodatabaseTutorial.pdf](https://github.com/natewalk22/Professional-Portfolio/files/6150453/GeodatabaseTutorial.pdf)
+  <body>
+<html>
