@@ -2,9 +2,9 @@
 
 ## About
 <p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire.  <p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/80425389/111332499-d9331f80-863f-11eb-8706-030325e15cb2.jpg" width=25% height=25%>
-</p>
+
+![FormalPic](https://user-images.githubusercontent.com/80425389/111348933-ae9c9300-864e-11eb-8f1f-4c22330e2d29.jpg)
+
 I am passionate about the role of data analysis in human society today, and how space and economics affect the every day lives of the everyday person. This may be demographic differences, urban planning, environmental conservation, fiscal policy, or any other way we can improve the lives of citizens through policy and analysis.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, using GIS software to visualize and create maps, or tackling economic issues and disparities.  <p>
   
 ---
@@ -96,4 +96,3 @@ mean(df$FRCLS_12)
 ![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)  
 ## Tutorials  
 [GeodatabaseTutorial.pdf](https://github.com/natewalk22/Professional-Portfolio/files/6150453/GeodatabaseTutorial.pdf)
-  <body>
