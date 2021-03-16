@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Página de prueba<title>
-</head>
-<body>
-  <h1>Hola amiguitos!</h1>
-  <footer>gpuma 2017</footer>
-</body>
-</html>
 # Nathan Walker's Digital Portfolio
 
 ## About
@@ -108,5 +99,5 @@ mean(df$FRCLS_12)
 ## Tutorials  
 [GeodatabaseTutorial.pdf](https://github.com/natewalk22/Professional-Portfolio/files/6150453/GeodatabaseTutorial.pdf)
 
-
+</html>
 
