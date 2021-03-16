@@ -83,7 +83,7 @@ mean(df$FRCLS_12)
 ![ForeclosureMap2](ForeclosureMap2.png)
 ---
 ## Adobe Illustrator Maps  
-![Africa_Coffee_Map1024_1](Africa_Coffee_Map.pdf)
+![Africa_Coffee_Map1024_1](Africa_Coffee_Map1024_1.jpg)
 ---
 ## Research Papers  
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
