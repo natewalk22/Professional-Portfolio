@@ -70,9 +70,11 @@ mean(df$FRCLS_12)
 ![ForeclosureMap2](https://user-images.githubusercontent.com/80425389/111321310-cfa4ba00-8635-11eb-83ba-b592613c8814.png)
 ---
 ## Adobe Illustrator Maps
+  
 [Africa_Coffee_Map.pdf](https://github.com/natewalk22/portfoliobasis/files/6119066/Africa_Coffee_Map.pdf)
 ---
 ## Research Papers
+  
 [Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)
   
 [Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
