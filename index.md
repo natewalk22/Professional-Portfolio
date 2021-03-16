@@ -2,7 +2,7 @@
 
 ## Map Projects
 ---
-### Time Series in ArcMap
+### Time Series Analysis
 ![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
 ---
 ### Raster Interpolation
@@ -11,7 +11,7 @@
 ### Cluster Analysis
 ![Crashes](https://user-images.githubusercontent.com/80425389/110703103-f89df880-81b8-11eb-9eb7-757eea63c650.jpg)
 ---
-### Divy Bike
+### Divy Bikes in Chicago Popularity Tessellation
 ![Divy_Bike_Map](https://user-images.githubusercontent.com/80425389/110703105-f9368f00-81b8-11eb-9967-875f7b21dfc7.jpg)
 ---
 ### R Data Preparation then QGIS Visualization
