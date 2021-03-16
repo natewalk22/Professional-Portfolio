@@ -16,16 +16,16 @@ I am passionate about the role of data analysis in human society today, and how 
 # Projects
 ## Maps
 ### Time Series Analysis
-![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
+![Bay_Area_Time_Series](Bay_Area_Time_Series.jpg)
 ---
 ### Raster Interpolation
-![Chesapeake_Bay](https://user-images.githubusercontent.com/80425389/110703102-f89df880-81b8-11eb-96e5-65a01d57188e.jpg)
+![Chesapeake_Bay](Chesapeake_Bay.jpg)
 ---
 ### Cluster Analysis
-![Crashes](https://user-images.githubusercontent.com/80425389/110703103-f89df880-81b8-11eb-9eb7-757eea63c650.jpg)
+![Crashes](Crashes.jpg)
 ---
 ### Divy Bikes in Chicago Popularity Tessellation
-![Divy_Bike_Map](https://user-images.githubusercontent.com/80425389/110703105-f9368f00-81b8-11eb-9967-875f7b21dfc7.jpg)
+![Divy_Bike_Map](Divy_Bike_Map.jpg)
 ---
 ### R Data Preparation then QGIS Visualization
 ```
@@ -80,17 +80,18 @@ qnorm(.10, lower.tail = FALSE)
 sd_pop(df$FRCLS_12)
 mean(df$FRCLS_12)
 ```
-![ForeclosureMap2](https://user-images.githubusercontent.com/80425389/111321310-cfa4ba00-8635-11eb-83ba-b592613c8814.png)
+![ForeclosureMap2](ForeclosureMap2.png)
 ---
 ## Adobe Illustrator Maps  
-![Africa_Coffee_Map1024_1](https://user-images.githubusercontent.com/80425389/111325821-10063700-863a-11eb-9b23-5ee749dee4f3.jpg)
+![Africa_Coffee_Map1024_1](Africa_Coffee_Map.pdf)
 ---
 ## Research Papers  
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
-[Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)  
+[Tourism_Hobbit_Or_Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
-[Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
+[Vietnam_Instagram_Analysis.pdf](Vietnam_Instagram_Analysis.pdf)
 ## Posters
-![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)  
+![188_Final_Poster](188_Final_Poster.png)  
 ## Tutorials  
-[GeodatabaseTutorial.pdf](https://github.com/natewalk22/Professional-Portfolio/files/6150453/GeodatabaseTutorial.pdf)
+[GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf)
+
