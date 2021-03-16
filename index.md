@@ -72,9 +72,9 @@ mean(df$FRCLS_12)
 ## Adobe Illustrator Maps  
 ![Africa_Coffee_Map1024_1](https://user-images.githubusercontent.com/80425389/111325821-10063700-863a-11eb-9b23-5ee749dee4f3.jpg)
 ---
-## Research Papers
-  
-[Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)
-  
+## Research Papers  
+### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
+[Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)  
+###
 [Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
 
