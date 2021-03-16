@@ -1,6 +1,6 @@
 # Nathan Walker's Digital Portfolio
 
-##About
+## About
 <p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire.  <p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80425389/111332499-d9331f80-863f-11eb-8706-030325e15cb2.jpg" width=25% height=25%>
