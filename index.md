@@ -1,7 +1,10 @@
 # Nathan Walker's Digital Portfolio
 
 ---
-<p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire. I am very passionate about the role of geography in human society today, and how space affects the every day lives of Americans and the surrounding environment. This may be demographic differences, urban planning, environmental conservation, or any other way we can improve the lives of citizens through policy and economics.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. I consider my personal strengths to be working with GIS and applying policies and methods in order to approach problems from a unique perspective, both realistically and efficiently. Someday I hope to establish a career either consulting or working as an urban planner to build a diverse, sustainable community.
+<p align="center">
+  <img src=![FormalPic](https://user-images.githubusercontent.com/80425389/111331802-41353600-863f-11eb-91b1-4f5527bc146f.jpg) />
+</p>
+<p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire. I am very passionate about the role of geography in human society today, and how space affects the every day lives of Americans and the surrounding environment. This may be demographic differences, urban planning, environmental conservation, or any other way we can improve the lives of citizens through policy and economics.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, 
   
 ## Map Projects
 ### Time Series Analysis
