@@ -10,7 +10,8 @@ I am passionate about the role of data analysis in human society today, and how 
 ---
 <p align="center">
   walkernj9595@uwec.edu
-    </p>
+    </p>  
+
 ---
   
 # Projects
