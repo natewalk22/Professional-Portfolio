@@ -6,10 +6,10 @@
 </p>
   
 ---
-<p align="center">
-  Email: walkernj9595@uwec.edu <br>
-  LinkedIn: https://www.linkedin.com/in/nathan-walker-bb22301bb/
-    </p>  
+<p>
+Email: walkernj9595@uwec.edu <br>
+LinkedIn: https://www.linkedin.com/in/nathan-walker-bb22301bb/
+</p>  
 
 ---
   
