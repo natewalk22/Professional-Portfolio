@@ -69,7 +69,7 @@ mean(df$FRCLS_12)
 ```
 ![ForeclosureMap2](https://user-images.githubusercontent.com/80425389/111321310-cfa4ba00-8635-11eb-83ba-b592613c8814.png)
 ---
-## Adobe Illustrator Maps
+## Adobe Illustrator Maps  
 
 [Africa_Coffee_Map.pdf](https://github.com/natewalk22/portfoliobasis/files/6119066/Africa_Coffee_Map.pdf)
 ---
