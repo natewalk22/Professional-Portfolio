@@ -83,4 +83,6 @@ mean(df$FRCLS_12)
 [Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
 [Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
+## Posters
+![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)
 
