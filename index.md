@@ -9,7 +9,7 @@ I am passionate about the role of data analysis in human society today, and how 
   
 ---
 <p align="center">
-  walkernj9595@uwec.edu
+  walkernj9595@uwec.edu  LinkedIn: https://www.linkedin.com/in/nathan-walker-bb22301bb/
     </p>  
 
 ---
