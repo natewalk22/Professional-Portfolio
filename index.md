@@ -1,14 +1,19 @@
 # Nathan Walker's Digital Portfolio
 
 ## Map Projects
+---
 ### Time Series in ArcMap
-![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg
+![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
+---
 ### Raster Interpolation
 ![Chesapeake_Bay](https://user-images.githubusercontent.com/80425389/110703102-f89df880-81b8-11eb-96e5-65a01d57188e.jpg)
+---
 ### Cluster Analysis
 ![Crashes](https://user-images.githubusercontent.com/80425389/110703103-f89df880-81b8-11eb-9eb7-757eea63c650.jpg)
+---
 ### Divy Bike
 ![Divy_Bike_Map](https://user-images.githubusercontent.com/80425389/110703105-f9368f00-81b8-11eb-9967-875f7b21dfc7.jpg)
+---
 ### R Data Preparation then QGIS Visualization
 ```
 library(tigris)
@@ -63,9 +68,12 @@ sd_pop(df$FRCLS_12)
 mean(df$FRCLS_12)
 ```
 ![ForeclosureMap2](https://user-images.githubusercontent.com/80425389/111321310-cfa4ba00-8635-11eb-83ba-b592613c8814.png)
+---
 ## Adobe Illustrator Maps
 [Africa_Coffee_Map.pdf](https://github.com/natewalk22/portfoliobasis/files/6119066/Africa_Coffee_Map.pdf)
+---
 ## Research Papers
 [Tourism_Hobbit_Or_Kiwi.pdf](https://github.com/natewalk22/portfoliobasis/files/6119067/Tourism_Hobbit_Or_Kiwi.pdf)
+  
 [Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
 
