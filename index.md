@@ -7,7 +7,8 @@
 </p>
 I am passionate about the role of data analysis in human society today, and how space and economics affect the every day lives of the everyday person. This may be demographic differences, urban planning, environmental conservation, fiscal policy, or any other way we can improve the lives of citizens through policy and analysis.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, using GIS software to visualize and create maps, or running analysis in Eviews.
   
-## Map Projects
+# Projects
+## Maps
 ### Time Series Analysis
 ![Bay_Area_Time_Series](https://user-images.githubusercontent.com/80425389/110703101-f8056200-81b8-11eb-994c-15cb275478e1.jpg)
 ---
