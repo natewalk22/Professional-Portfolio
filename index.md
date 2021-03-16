@@ -85,8 +85,8 @@ mean(df$FRCLS_12)
 ### Vietnam National Instagram Content Analysis
 [Vietnam_Instagram_Analysis.pdf](https://github.com/natewalk22/portfoliobasis/files/6119068/Vietnam_Instagram_Analysis.pdf)
 ## Posters
-![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)
-##Tutorials
+![188_Final_Poster](https://user-images.githubusercontent.com/80425389/111338808-3bdaea00-8645-11eb-89de-7eddae345000.png)  
+## Tutorials  
 [GeodatabaseTutorial.docx](https://github.com/natewalk22/Professional-Portfolio/files/6150446/GeodatabaseTutorial.docx)
 
 
