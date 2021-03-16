@@ -1,10 +1,10 @@
 # Nathan Walker's Digital Portfolio
 
 ---
-<p align="center">
-  <img src=![FormalPic](https://user-images.githubusercontent.com/80425389/111331802-41353600-863f-11eb-91b1-4f5527bc146f.jpg) />
-</p>  
-<p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire. I am very passionate about the role of geography in human society today, and how space affects the every day lives of Americans and the surrounding environment. This may be demographic differences, urban planning, environmental conservation, or any other way we can improve the lives of citizens through policy and economics.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, using GIS software to visualize and create striking maps, or running analysis in Eviews.
+<p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire. 
+![FormalPic](https://user-images.githubusercontent.com/80425389/111332499-d9331f80-863f-11eb-8706-030325e15cb2.jpg)
+
+I am very passionate about the role of geography in human society today, and how space affects the every day lives of Americans and the surrounding environment. This may be demographic differences, urban planning, environmental conservation, or any other way we can improve the lives of citizens through policy and economics.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, using GIS software to visualize and create striking maps, or running analysis in Eviews.
   
 ## Map Projects
 ### Time Series Analysis
