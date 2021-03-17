@@ -3,7 +3,7 @@
 ## About
 <p>Hello, thank you for taking the time to investigate my portfolio! My name is Nathan Walker, and I am a Geography and Economics student at University of Wisconsin - Eau Claire.  </p>  
 
-![FormalPic_50](FormalPic_25.jpg)
+![FormalPic_50](FormalPic_1_25.jpg)
 
 <p>I am passionate about the role of data analysis in human society today, and how space and economics affect the every day lives of the everyday person. This may be demographic differences, urban planning, environmental conservation, fiscal policy, or any other way we can improve the lives of citizens through policy and analysis.  I pride myself on learning new techniques quickly and would like to develop an arsenal of skills to approach different problems. This may be working with Python or R to script and run statistical tests, using GIS software to visualize and create maps, or tackling economic issues and disparities.  
 </p>
