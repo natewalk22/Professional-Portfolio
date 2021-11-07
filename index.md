@@ -92,6 +92,8 @@ mean(df$FRCLS_12)
 [Tourism_Hobbit_Or_Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
 [Vietnam_Instagram_Analysis.pdf](Vietnam_Instagram_Analysis.pdf)
+### Nuclear Site Suitability Analysis for Wisconsin
+[NuclearCourseProject](NuclearCourseProject.docx)
 ## Posters
 ![188_Final_Poster](188_Final_Poster.png)  
 ## Tutorials  
