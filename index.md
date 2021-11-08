@@ -97,7 +97,6 @@ mean(df$FRCLS_12)
 ## Posters
 ![188_Final_Poster](188_Final_Poster.png)  
 ## Tutorials  
-[GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf)
-##Field Seminar Website
+[GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf) 
+## Field Seminar - Geographies of Community
 https://uwecgeographyfield.wixsite.com/community2021
-
