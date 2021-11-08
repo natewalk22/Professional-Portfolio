@@ -98,4 +98,6 @@ mean(df$FRCLS_12)
 ![188_Final_Poster](188_Final_Poster.png)  
 ## Tutorials  
 [GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf)
+##Field Seminar Website
+https://uwecgeographyfield.wixsite.com/community2021
 
