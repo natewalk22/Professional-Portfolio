@@ -10,7 +10,7 @@
   
 ---
 **Email**: natewalk22@gmail.com<br>
-**LinkedIn**: [Go](https://www.linkedin.com/in/nathan-walker-bb22301bb/)
+**LinkedIn**: [Nathan Walker](https://www.linkedin.com/in/nathan-walker-bb22301bb/)
 
 ---
 # Projects
