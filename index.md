@@ -50,4 +50,5 @@ https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/
 
 ## Tutorials  
 [GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf) 
-https://natewalk22.github.io/GISHospitalTutorial/
+<br>
+[Hospital Site Tutorial](https://natewalk22.github.io/GISHospitalTutorial/)
