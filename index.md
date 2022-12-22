@@ -31,15 +31,15 @@
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
 [Tourism_Hobbit_Or_Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
-[Vietnam_Instagram_Analysis.pdf](Vietnam_Instagram_Analysis.pdf)
+[Vietnam_Instagram_Analysis](Vietnam_Instagram_Analysis.pdf)
 ### Nuclear Site Suitability Analysis for Wisconsin
-[NuclearCourseProject](NuclearCourseProject.docx)
+[Nuclear Course Project](NuclearCourseProject.docx)
 ### Capstone Project: Analyzing Potential Increased Exposure of Demographic and Socioeconomic Populations To The Urban Heat Island In Milwaukee, Wisconsin
-[CapstoneProject](CapstonePaper.pdf)
+[Capstone Project](CapstonePaper.pdf)
 
 ## Web Applications
 ### Environmental Equity in Madison County
-https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/
+[Environmental Equity Dashboard](https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/)
 ### Spatial Autocorrelation Educational Tool
 [Spatial Autocorrelation](https://natewalk.shinyapps.io/SpatialAutocorrelation/)
 
@@ -49,6 +49,6 @@ https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/
 ![Walkability Poster](WalkabilityPoster.png)
 
 ## Tutorials  
-[GeodatabaseTutorial.pdf](GeodatabaseTutorial.pdf) 
+[Geodatabase Tutorial](GeodatabaseTutorial.pdf) 
 <br>
 [Hospital Site Tutorial](https://natewalk22.github.io/GISHospitalTutorial/)
