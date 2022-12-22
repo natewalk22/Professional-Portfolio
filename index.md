@@ -35,13 +35,13 @@
 ### Nuclear Site Suitability Analysis for Wisconsin
 [NuclearCourseProject](NuclearCourseProject.docx)
 ### Capstone Project: Analyzing Potential Increased Exposure of Demographic and Socioeconomic Populations To The Urban Heat Island In Milwaukee, Wisconsin
-[CapstoneProject](CapstoneProject.pdf)
+[CapstoneProject](CapstonePaper.pdf)
 
 ## Web Applications
 ### Environmental Equity in Madison County
 https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/
 ### Spatial Autocorrelation Educational Tool
-https://natewalk.shinyapps.io/SpatialAutocorrelation/
+[Spatial Autocorrelation](https://natewalk.shinyapps.io/SpatialAutocorrelation/)
 
 ## Posters
 ![188_Final_Poster](188_Final_Poster.png) 
