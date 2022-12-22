@@ -10,7 +10,7 @@
   
 ---
 **Email**: natewalk22@gmail.com<br>
-**LinkedIn**: https://www.linkedin.com/in/nathan-walker-bb22301bb/
+**LinkedIn**: [Go](https://www.linkedin.com/in/nathan-walker-bb22301bb/)
 
 ---
 # Projects
@@ -29,9 +29,9 @@
 ---
 ## Research Papers  
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
-[Tourism_Hobbit_Or_Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
+[Tourism Hobbit Or Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
-[Vietnam_Instagram_Analysis](Vietnam_Instagram_Analysis.pdf)
+[Vietnam Instagram Analysis](Vietnam_Instagram_Analysis.pdf)
 ### Nuclear Site Suitability Analysis for Wisconsin
 [Nuclear Course Project](NuclearCourseProject.docx)
 ### Capstone Project: Analyzing Potential Increased Exposure of Demographic and Socioeconomic Populations To The Urban Heat Island In Milwaukee, Wisconsin
