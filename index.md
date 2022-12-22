@@ -29,7 +29,7 @@
 ---
 ## Research Papers  
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
-[Tourism Hobbit Or Kiwi.pdf](Tourism_Hobbit_Or_Kiwi.pdf)  
+[Tourism Hobbit Or Kiwi](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
 [Vietnam Instagram Analysis](Vietnam_Instagram_Analysis.pdf)
 ### Nuclear Site Suitability Analysis for Wisconsin
