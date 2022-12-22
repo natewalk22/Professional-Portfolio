@@ -26,8 +26,9 @@
 ---
 ## Adobe Illustrator Maps  
 ![Africa_Coffee_Map1024_1](Africa_Coffee_Map1024_1.jpg)
+
+## Research Papers 
 ---
-## Research Papers  
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
 [Tourism Hobbit Or Kiwi](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
@@ -38,17 +39,20 @@
 [Capstone Project](CapstonePaper.pdf)
 
 ## Web Applications
+---
 ### Environmental Equity in Madison County
 [Environmental Equity Dashboard](https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/)
 ### Spatial Autocorrelation Educational Tool
 [Spatial Autocorrelation](https://natewalk.shinyapps.io/SpatialAutocorrelation/)
 
 ## Posters
+---
 ![188_Final_Poster](188_Final_Poster.png) 
 ![Cycling Safety Poster](CyclingSafetyPoster.png)
 ![Walkability Poster](WalkabilityPoster.png)
 
-## Tutorials  
+## Tutorials 
+---
 [Geodatabase Tutorial](GeodatabaseTutorial.pdf) 
 <br>
 [Hospital Site Tutorial](https://natewalk22.github.io/GISHospitalTutorial/)
