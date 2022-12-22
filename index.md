@@ -12,23 +12,23 @@
 **Email**: natewalk22@gmail.com<br>
 **LinkedIn**: [Nathan Walker](https://www.linkedin.com/in/nathan-walker-bb22301bb/)
 
----
+
 # Projects
 ## Maps
 ### Time Series Analysis
 ![Bay_Area_Time_Series](Bay_Area_Time_Series.jpg)
----
+
 ### Cluster Analysis
 ![Crashes](Crashes.jpg)
----
+
 ### Divy Bikes in Chicago Popularity Tessellation
 ![Divy_Bike_Map](Divy_Bike_Map.jpg)
----
+
 ## Adobe Illustrator Maps  
 ![Africa_Coffee_Map1024_1](Africa_Coffee_Map1024_1.jpg)
 
 ## Research Papers 
----
+
 ### Hobbit or “Kiwi:” Lord of the Rings Tourism, Sustainability, and National Identity
 [Tourism Hobbit Or Kiwi](Tourism_Hobbit_Or_Kiwi.pdf)  
 ### Vietnam National Instagram Content Analysis
@@ -39,20 +39,20 @@
 [Capstone Project](CapstonePaper.pdf)
 
 ## Web Applications
----
+
 ### Environmental Equity in Madison County
 [Environmental Equity Dashboard](https://natewalk.shinyapps.io/MadisonCountyEnvironmentalEquity/)
 ### Spatial Autocorrelation Educational Tool
 [Spatial Autocorrelation](https://natewalk.shinyapps.io/SpatialAutocorrelation/)
 
 ## Posters
----
+
 ![188_Final_Poster](188_Final_Poster.png) 
 ![Cycling Safety Poster](CyclingSafetyPoster.png)
 ![Walkability Poster](WalkabilityPoster.png)
 
 ## Tutorials 
----
+
 [Geodatabase Tutorial](GeodatabaseTutorial.pdf) 
 <br>
 [Hospital Site Tutorial](https://natewalk22.github.io/GISHospitalTutorial/)
